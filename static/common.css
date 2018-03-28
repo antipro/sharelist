@@ -1,0 +1,5 @@
+img.electron { margin: 0 auto; }
+img.cordova { margin: 0 auto; }
+
+.carousel-indicators li { background-color: #b3e4f5; }
+.carousel-indicators li.active { background-color: #1429e7; }
